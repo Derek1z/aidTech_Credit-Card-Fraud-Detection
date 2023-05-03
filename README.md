@@ -9,8 +9,11 @@ Prerequisites
 The following libraries are required to run the code:
 
 Pandas
+
 Numpy
+
 Scikit-learn
+
 Running the code
 To run the code, download the creditcard.csv dataset and save it to your local machine. Then, open the svm_credit_card_fraud_detection.py file in a Python IDE of your choice and update the file path to the creditcard.csv file. Then, run the script.
 
